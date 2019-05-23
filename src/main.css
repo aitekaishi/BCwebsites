@@ -1,0 +1,18 @@
+.index {
+	display: flex;
+	flex-wrap: wrap;
+	text-align: center;
+	justify-content: center;
+}
+
+.index_a {
+	width: 600px;
+	height: 600px;
+	background: red;
+}
+
+.index_b {
+	width: 600px;
+	height: 600px;
+	background: yellow;
+}
